@@ -20,4 +20,4 @@ mvn compile
 mvn exec:java -Dexec.mainClass=com.mongodb.Driver
 ```
 
-The project has 4 different functions for each operation. for clear understanding run one function at a time. You can do this by commenting the other three object call in the **Driver** class. You can also watch each change in the database using the MongoDB compass.
+The project has 4 different functions for each operation. for clear understanding run one function at a time. You can do this by commenting the other three function call in the **Driver** class. You can also watch each change in the database using the MongoDB compass.
